@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1748302693 source:c:\coding\dsa\testttt1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<unordered_map>
+	<limits>
+	<sstream>
+	"graphV1.h"
+	"map.h"
+
+1748294044 c:\coding\dsa\testttt1\graphv1.h
+	<algorithm>
+	<vector>
+	<list>
+	<string>
+	<unordered_map>
+	<iostream>
+	<iomanip>
+	<limits>
+	<fstream>
+	<queue>
+	<sstream>
+	<stack>
+
+1748300659 c:\coding\dsa\testttt1\map.h
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	"graphV1.h"
+
+1748303208 source:c:\coding\dsa\commuteoptimizerwothoutgui\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<unordered_map>
+	<limits>
+	<sstream>
+	"graphV1.h"
+	"map.h"
+
+1748294044 c:\coding\dsa\commuteoptimizerwothoutgui\graphv1.h
+	<algorithm>
+	<vector>
+	<list>
+	<string>
+	<unordered_map>
+	<iostream>
+	<iomanip>
+	<limits>
+	<fstream>
+	<queue>
+	<sstream>
+	<stack>
+
+1748300659 c:\coding\dsa\commuteoptimizerwothoutgui\map.h
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	"graphV1.h"
+
